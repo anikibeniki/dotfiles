@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anita@liveflow.io
+	name = Anita Koimur
